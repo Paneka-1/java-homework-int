@@ -1,23 +1,16 @@
-# Отчёт о тестировании Credit Card Number Validator
+# Отчёт о тестировании банковского приложения Money Transfer.
 
 ## Краткое описание
 
-19.07.2020 было проведено тестирование приложения Credit Card Number Validator.
+21.07.2020 было проведено тестирование Money Transfer.
 
 На тестирование затрачено: 2 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Paneka-1/java-homework-1_2/issues/1
-* https://github.com/Paneka-1/java-homework-1_2/issues/2
-* https://github.com/Paneka-1/java-homework-1_2/issues/3
-* https://github.com/Paneka-1/java-homework-1_2/issues/4
+* https://github.com/Paneka-1/java-homework-int/issues/1
+
 
 ## Описание процесса тестирования
-
-
-В качестве тестовых данных использовались сгенерированные данные банковских карт:
-
-* https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 
 Тестирование производилось в следующем окружении:
